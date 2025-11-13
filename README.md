@@ -14,7 +14,7 @@
  ## Quick Setup:
  * Create a Virtual Switch in Hubitat (Devices → Add Device → Virtual → Virtual Switch)
  * Create a Global Variable in Hubitat (Settings → Hub Variables → Create New Variable)
- * Install this code in Apps Code
+ * Install webcore-proxy-app.groovy in Apps Code
  * Enable OAuth for the app
  * Create an app instance and configure with your virtual switch, global variable and webCoRE details
  * Copy the URLs provided in the app settings
